@@ -1,0 +1,65 @@
+{
+  "users": {
+    "8050010132": {
+      "id": 8050010132,
+      "name": "Kozimov",
+      "iq": 185,
+      "lastRoll": 1794649668659,
+      "pendingDelta": null,
+      "lastBonus": 1794651246543
+    },
+    "6986684012": {
+      "id": 6986684012,
+      "name": "TLX",
+      "iq": 84,
+      "lastRoll": 1794652611373,
+      "lastBonus": 0,
+      "streak": 1,
+      "lastStreakDay": "2026-11-14",
+      "pendingDelta": null,
+      "referrals": 0,
+      "rollsCount": 1,
+      "joinedAt": 1794652598123
+    },
+    "8557455759": {
+      "id": 8557455759,
+      "name": "ꪗꪮꪊ𝘳_꯭𝘬ꪮᥴꫝꪮꪊ🦋",
+      "iq": 83,
+      "lastRoll": 1794652792395,
+      "lastBonus": 0,
+      "streak": 1,
+      "lastStreakDay": "2026-11-14",
+      "pendingDelta": null,
+      "referrals": 0,
+      "rollsCount": 1,
+      "joinedAt": 1794652788699
+    },
+    "8027551718": {
+      "id": 8027551718,
+      "name": "Javohir",
+      "iq": 80,
+      "lastRoll": 0,
+      "lastBonus": 0,
+      "streak": 0,
+      "lastStreakDay": "",
+      "pendingDelta": 1,
+      "referrals": 0,
+      "rollsCount": 0,
+      "joinedAt": 1794652926251
+    }
+  },
+  "promos": {
+    "KOZIMOV": {
+      "iq": 90,
+      "maxUses": 15,
+      "usedBy": [
+        8050010132
+      ]
+    }
+  },
+  "settings": {
+    "adText": "📢 Kanal: @kzmvsblog",
+    "subChannel": ""
+  },
+  "totalRolls": 3
+}
